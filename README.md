@@ -30,23 +30,24 @@ mindset     : "Excellence · Pragmatism · Strategic Vision"
 
 ### ⚡ Tech Stack
 
+--- #### Languages
+
+![Go](https://img.shields.io/badge/Go-%233178C6.svg?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+--- #### Frontend Frameworks 
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+--- #### Databases
+![MongoDB](https://img.shields.io/badge/mongodb-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+--- #### Infra
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLMs_%2F_AI-%238B5CF6.svg?style=for-the-badge&logo=openai&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=franklinsales&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklinsales&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" />
 
 ---
 
