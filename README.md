@@ -30,22 +30,30 @@ mindset     : "Excellence · Pragmatism · Strategic Vision"
 
 ### ⚡ Tech Stack
 
---- #### Languages
+--- 
+
+#### Languages
 
 ![Go](https://img.shields.io/badge/Go-%233178C6.svg?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
---- #### Frontend Frameworks 
+--- 
+
+#### Frontend Frameworks 
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
---- #### Databases
+--- 
+
+#### Databases
 ![MongoDB](https://img.shields.io/badge/mongodb-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
---- #### Infra
+--- 
+
+#### Infra
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
